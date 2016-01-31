@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_id": "ranthy-7da16",
+    "project_number": "818853023826",
+    "name": "Ranthy"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818853023826:android:de24e7127171c54f",
+        "client_id": "android:com.Ajay.Messenger",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.Ajay.Messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

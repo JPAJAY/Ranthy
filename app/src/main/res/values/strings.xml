@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ranthy</string>
+    <string name="gcm_defaultSenderId">818853023826</string>
+    <string-array name="Contacts">
+        <item>Ajay</item>
+        <item>Kumaran</item>
+        <item>Bhoopathy</item>
+    </string-array>
+
+</resources>
